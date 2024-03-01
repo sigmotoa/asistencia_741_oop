@@ -1,12 +1,8 @@
 https://medium.com/@AlexanderObregon/getting-started-with-version-control-in-eclipse-ide-git-and-github-integration-a0cca7b15126#:~:text=In%20Eclipse%2C%20right%2Dclick%20on,Click%20%E2%80%9CFinish.%E2%80%9D
 sigmotoa
 
-
-Julian Andres Neira Camacho
-
 Nicolás Cervantes
 20232007088
-
 
 
 
@@ -48,3 +44,4 @@ PONGAN TUSA
 
  Sergio Vargas 20232007128
 
+santiago herrera 20222005121
