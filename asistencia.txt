@@ -1,1 +1,5 @@
 sigmotoa
+Nombre:
+Santiago Manrique Rodriguez
+Codigo:
+20232005100
