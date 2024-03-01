@@ -1,12 +1,8 @@
 
 sigmotoa
 
-
-Julian Andres Neira Camacho
-
 Nicolás Cervantes
 20232007088
-
 
 
 
@@ -48,3 +44,4 @@ Kevin Alarcon 20232007152
 
  Sergio Vargas 20232007128
 
+santiago herrera 20222005121
