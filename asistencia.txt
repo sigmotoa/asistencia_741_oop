@@ -1,5 +1,9 @@
 
 sigmotoa
+Nombre:
+Santiago Manrique Rodriguez
+Codigo:
+20232005100
 
 
 Julian Andres Neira Camacho
@@ -47,4 +51,3 @@ Kevin Alarcon 20232007152
 PONGAN TUSA
 
  Sergio Vargas 20232007128
-
