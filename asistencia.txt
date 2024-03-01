@@ -2,6 +2,24 @@
 sigmotoa
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arturo Rodríguez
+
 Julian Andres Neira Camacho
 
 Nicolás Cervantes
@@ -47,4 +65,5 @@ Kevin Alarcon 20232007152
 PONGAN TUSA
 
  Sergio Vargas 20232007128
+
 
